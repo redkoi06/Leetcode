@@ -1,3 +1,7 @@
+//
+// Created by GPT on 2026/2/27.
+//
+
 int concatenatedBinary(int n) {
     const int MOD = 1000000007;
     long long res = 0;
